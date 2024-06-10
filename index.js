@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>Hello, everyone! </h1>, document.getElementById("root")) //what do you want to put and where. Here we are putting it in the div element called root
